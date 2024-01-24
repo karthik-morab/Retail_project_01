@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\data\\test_results"
+    ""
   ],
-  "SelectedNode": "\\lib",
+  "SelectedNode": "\\pytest.ini",
   "PreviewInSolutionExplorer": false
 }
